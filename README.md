@@ -32,7 +32,7 @@ Html | Css | JavaScript
 
 ***
 
-### 🔗 O projeto
+### O projeto
 
 #### Estrutura de arquivos
 
