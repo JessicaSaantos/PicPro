@@ -7,7 +7,7 @@
 ***
 
  ## Descrição:
-  **🔗Projeto PicPro:** Clone simples da Interface do aplicativo *PicPay*, a Carteira Digital feita para descomplicar a vida financeira de sues usuários, facilitando pagamentos, transferências e saques. Esse projeto contém o mesmo padrão do conteúdo principal do app que é a apresentação com informções do usuário, o menu inicial de navegação e o rodapé. Nele é possível fazer a navegação entre as principais seções da página, selecionando a forma de pagamento.    
+  **🔗Projeto PicPro:** Clone simples da Interface do aplicativo *PicPay*, a Carteira Digital feita para descomplicar a vida financeira de seus usuários, facilitando pagamentos, transferências e saques. Esse projeto contém o mesmo padrão do conteúdo principal do app que é a apresentação com informações do usuário, o menu inicial de navegação e o rodapé. Nele é possível fazer a navegação entre as principais seções da página, selecionando a forma de pagamento.    
 
 ***
 
@@ -20,7 +20,7 @@ Html | Css | JavaScript
  
 ### Aprendizados: 📚 
 
- <p> Através desse projeto foi possível exercitar o uso do conceito de Flexbox para organizar os elementos dentro de conteiners de forma dinâmica, também do atributo hover que permite mudanças de estilos quando o cursor do mouse passa em algum elemento da página HTML, no PicPro esse efeito acontece no menu de seleção de pagamento. </p> 
+ <p> Através desse projeto foi possível exercitar o uso do conceito de Flexbox para organizar os elementos dentro de containers de forma dinâmica, também do atributo hover que permite mudanças de estilos quando o cursor do mouse passa em algum elemento da página HTML, no PicPro esse efeito acontece no menu de seleção de pagamento. </p> 
  
  <p> Além disso, foi interessante usar a linguagem JavaScript para tornar a página dinâmica tornando possível a mudança de seção  ao selecionar uma forma de pagamento especifica. Usando DOM, para manipular elementos do documento HTML, funções para executar tarefas como identificar ação de click em elementos específicos e também loop para omitir as seções não selecionadas. </p>
 
