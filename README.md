@@ -2,7 +2,7 @@
 
 ***
 
- # ![logo-picpro](https://user-images.githubusercontent.com/98659450/155864374-3742110a-4282-4665-b649-495be869f2dd.png)
+ # PicPro
 
 ***
 
@@ -15,7 +15,7 @@
 
 Html | Css | JavaScript
 ---|---|---
-5 | 3 | 
+5 | 3 | Atual
 
  
 ### Aprendizados: 📚 
