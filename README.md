@@ -1,6 +1,16 @@
 ![banner](https://user-images.githubusercontent.com/98659450/155864358-82bddd23-a9f1-4403-a756-13d313ee4f8e.png)
 
 ***
+<p align ="center">
+ <a href="#Descrição">Sobre</a> •
+ <a href="#Tecnologias Utilizadas">Tecnologias</a> •
+ <a href="# Aprendizados">Objetivo</a> 
+ <a href="#O Projeto">O Projeto</a> •
+ <a href="#Status">Status</a> •
+ <a href="#Demostração">Demonstração</a> •
+ <a href="#Pré-requisitos">Pré-requisitos</a> •
+ 
+</p>
 
  # PicPro
 
