@@ -7,7 +7,7 @@
  [Tecnologias](#-Tecnologias-Utilizadas) •
  <a href="#Aprendizados">Objetivo</a> •
  <a href="#O-Projeto">O Projeto</a> •
- <a href="#Status">Status</a> •
+ <a href="#Status-do-Projeto">Status</a> •
  <a href="#Demonstracao">Demonstração</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> •
  
@@ -43,7 +43,7 @@ Html | Css | JavaScript
 
 ***
 
-### O projeto
+### O Projeto
 
 #### Estrutura de arquivos
 
@@ -56,7 +56,8 @@ Html | Css | JavaScript
     - /js
         - script.js
 
-### Status do Projeto: *Concluído* ✔️
+### Status do Projeto: 
+*Concluído* ✔️
 Objetivo principal do projeto está finalizado. Mas outras funcionalidades poderão ser adicionadas ao PicPro.
 
 **Possíveis funcionalidades:**
