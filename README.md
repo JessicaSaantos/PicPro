@@ -4,10 +4,10 @@
 <p align ="center">
 
  <a href="#Descrição">Sobre</a> •
- <a href="#Tecnologias Utilizadas">Tecnologias</a> •
- <a href="#Aprendizados">Objetivo</a> •
- <a href="#O Projeto">O Projeto</a> •
- <a href="#Status">Status</a> •
+ <a href="#tecnologias utilizadas">Tecnologias</a> •
+ <a href="#aprendizados">Objetivo</a> •
+ <a href="#o projeto">O Projeto</a> •
+ <a href="#status">Status</a> •
  <a href="#Demostração">Demonstração</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> •
  
