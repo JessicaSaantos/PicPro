@@ -3,8 +3,8 @@
 ***
 <p align ="center">
 
- [Sobre](#-Descrição)•
- [Tecnologias](#-Tecnologias-Utilizadas) •
+ <a href="#Descrição">Sobre</a>•
+ <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a> •
  <a href="#Aprendizados">Objetivo</a> •
  <a href="#O-Projeto">O Projeto</a> •
  <a href="#Status-do-Projeto">Status</a> •
@@ -22,7 +22,7 @@
 
 ***
 
-### Tecnologias-Utilizadas:
+### Tecnologias Utilizadas:
 Marcação | Estilização | Programção
 ---|---|---
 Html | Css | JavaScript
