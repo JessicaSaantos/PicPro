@@ -5,8 +5,8 @@
 
  [Sobre](#-Descrição)•
  [Tecnologias](#-Tecnologias-Utilizadas) •
- <a href="#aprendizados">Objetivo</a> •
- <a href="#o projeto">O Projeto</a> •
+ <a href="#Aprendizados">Objetivo</a> •
+ <a href="#O Projeto">O Projeto</a> •
  <a href="#status">Status</a> •
  <a href="#Demonstração">Demonstração</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> •
