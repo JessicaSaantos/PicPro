@@ -3,12 +3,12 @@
 ***
 <p align ="center">
 
- <a href="#Descrição">Sobre</a> •
- <a href="#tecnologias utilizadas">Tecnologias</a> •
+ [Sobre](#-Descrição)•
+ [Tecnologias](#-Tecnologias-Utilizadas) •
  <a href="#aprendizados">Objetivo</a> •
  <a href="#o projeto">O Projeto</a> •
  <a href="#status">Status</a> •
- <a href="#Demostração">Demonstração</a> •
+ <a href="#Demonstração">Demonstração</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> •
  
 </p>
@@ -22,11 +22,10 @@
 
 ***
 
-### Tecnologias Utilizadas:
+### Tecnologias-Utilizadas:
 Marcação | Estilização | Programção
 ---|---|---
 Html | Css | JavaScript
----|---|---
 5 | 3 | ECMAScript 2018
 
  
@@ -66,7 +65,7 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
  - [ ] Omitit o valor de saldo
  - [ ] Abrir o chat do App
 
-### Demostração: 🎥
+### Demonstração: 🎥
 ![Animação](https://user-images.githubusercontent.com/98659450/155865785-c00d109a-9dd9-4458-8e8b-2f5eeb71b352.gif)
 
 ### Pré-requisitos:
