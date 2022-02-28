@@ -1,11 +1,11 @@
 ![banner](https://user-images.githubusercontent.com/98659450/155864358-82bddd23-a9f1-4403-a756-13d313ee4f8e.png)
 
 ***
-<p align ="center">
+<p align ='center'>
 
- <a href="#Descrição">Sobre</a>•
+ <a href="#Descrição">Sobre</a> •
  <a href="#Tecnologias-Utilizadas">Tecnologias Utilizadas</a> •
- <a href="#Aprendizados">Objetivo</a> •
+ <a href="#Aprendizados">Objetivos de Exercício</a> •
  <a href="#O-Projeto">O Projeto</a> •
  <a href="#Status-do-Projeto">Status</a> •
  <a href="#Demonstração">Demonstração</a> •
