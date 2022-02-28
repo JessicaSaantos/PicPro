@@ -8,7 +8,7 @@
  <a href="#Aprendizados">Objetivo</a> •
  <a href="#O-Projeto">O Projeto</a> •
  <a href="#Status-do-Projeto">Status</a> •
- <a href="#Demonstracao">Demonstração</a> •
+ <a href="#Demonstração">Demonstração</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> •
  
 </p>
@@ -29,7 +29,7 @@ Html | Css | JavaScript
 5 | 3 | ECMAScript 2018
 
  
-### Aprendizados: 📚 
+### Aprendizados:   📚 
 
  <p> Através desse projeto foi possível exercitar o uso do conceito de Flexbox para organizar os elementos dentro de containers de forma dinâmica, também do atributo hover que permite mudanças de estilos quando o cursor do mouse passa em algum elemento da página HTML, no PicPro esse efeito acontece no menu de seleção de pagamento. </p> 
  
@@ -66,7 +66,7 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
  - [ ] Omitit o valor de saldo
  - [ ] Abrir o chat do App
 
-### Demonstração: 🎥
+### Demonstração:  🎥
 ![Animação](https://user-images.githubusercontent.com/98659450/155865785-c00d109a-9dd9-4458-8e8b-2f5eeb71b352.gif)
 
 ### Pré-requisitos:
