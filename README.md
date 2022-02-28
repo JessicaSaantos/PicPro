@@ -4,7 +4,7 @@
 <p align ="center">
  <a href="#Descrição">Sobre</a> •
  <a href="#Tecnologias Utilizadas">Tecnologias</a> •
- <a href="# Aprendizados">Objetivo</a> 
+ <a href="#Aprendizados">Objetivo</a> •
  <a href="#O Projeto">O Projeto</a> •
  <a href="#Status">Status</a> •
  <a href="#Demostração">Demonstração</a> •
@@ -22,10 +22,11 @@
 ***
 
 ### Tecnologias Utilizadas:
-
+Marcação | Estilização | Programção
+---|---|---
 Html | Css | JavaScript
 ---|---|---
-5 | 3 | Atual
+5 | 3 | ECMAScript 2018
 
  
 ### Aprendizados: 📚 
@@ -37,7 +38,7 @@ Html | Css | JavaScript
 <p>  Foram usados nesse programa estrutura de repetição (for), estrutura condicional simples (if), além de alguns comandos para acionar eventos, chamar funções e orgazinar a apresentação do resultado final para o usuário. As Funções foram usadas também para dividir as etapas de funcionalidades do programa, deixando assim o código mais organizado e limpo.
  </p>
 <p>
-    🔗 Esse desenvolvimento foi realizado em uma maratona de aulas da escola <a href="https://kenzie.com.br/">Kenzie Academy Brasil</a> e apresentado no canal do <a href="https://www.youtube.com/c/KenzieAcademyBrasil">YouTube da Kenzie</a>.
+    🔗 Esse desenvolvimento foi realizado em uma maratona de aulas da escola <a href="https://kenzie.com.br/" rel="nofollow">Kenzie Academy Brasil</a> e apresentado no canal do <a href="https://www.youtube.com/c/KenzieAcademyBrasil">YouTube da Kenzie</a>.
 </p>
 
 ***
@@ -55,5 +56,20 @@ Html | Css | JavaScript
     - /js
         - script.js
 
+### Status do Projeto: *Concluído* ✔️
+Objetivo principal do projeto está finalizado. Mas outras funcionalidades poderão ser adicionadas ao PicPro.
+
+**Possíveis funcionalidades:**
+ - [x] Interface Principal
+ - [x] Seleção de forma de pagamento
+ - [ ] Omitit o valor de saldo
+ - [ ] Abrir o chat do App
+
+### Demostração: 🎥
 ![Animação](https://user-images.githubusercontent.com/98659450/155865785-c00d109a-9dd9-4458-8e8b-2f5eeb71b352.gif)
+
+### Pré-requisitos:
+
+Para ver o funcionamento é só clicar [aqui](). <br>
+Para extrair o arquivo e trabalhar com o código é bom ter um editor como [VSCode](https://code.visualstudio.com/) por exemplo.
 
