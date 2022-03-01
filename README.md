@@ -3,19 +3,16 @@
 ***
 <div align="center">
 
- <a href="#Descrição">Sobre</a> •
- <a href="#Tecnologias-Utilizadas">Tecnologias</a> •
- <a href="#Aprendizados">Objetivos</a> •
- <a href="#O-Projeto">O Projeto</a> •
+ [![](https://img.shields.io/badge/🔗-Sobre-<COLOR>)](#Descrição) •
+ [![](https://img.shields.io/badge/🔗-Tecnologias%20Utilizadas-<COLOR>)](#Tecnologias-Utilizadas) •
+ [![](https://img.shields.io/badge/🔗-Objetivos-<COLOR>)](#Aprendizados) •
+ [![](https://img.shields.io/badge/🔗-O%20Projeto-<COLOR>)](#O-Projeto) •
+
  <a href="#Status-do-Projeto">Status</a> •
  <a href="#Demonstração">Demonstração</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> •
  
 </div>
-
-[![](https://img.shields.io/badge/Sobre-<COLOR>)](#Descrição)
-
-[![](https://img.shields.io/badge/Tecnologias%20Utilizadas-<COLOR>)](#Tecnologias-Utilizadas)
 
 # PicPro
 
