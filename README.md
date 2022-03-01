@@ -3,15 +3,8 @@
 ***
 <div align="center">
 
- [![](https://img.shields.io/badge/🔗-Sobre-<COLOR>)](#Descrição) •
- [![](https://img.shields.io/badge/🔗-Tecnologias%20Utilizadas-<COLOR>)](#Tecnologias-Utilizadas) •
- [![](https://img.shields.io/badge/🔗-Objetivos-<COLOR>)](#Aprendizados) •
- [![](https://img.shields.io/badge/🔗-O%20Projeto-<COLOR>)](#O-Projeto) •
-
- <a href="#Status-do-Projeto">Status</a> •
- <a href="#Demonstração">Demonstração</a> •
- <a href="#Pré-requisitos">Pré-requisitos</a> •
- 
+ [![](https://img.shields.io/badge/🔗-Sobre-<COLOR>)](#Descrição) • [![](https://img.shields.io/badge/🔗-Tecnologias%20Utilizadas-<COLOR>)](#Tecnologias-Utilizadas) • [![](https://img.shields.io/badge/🔗-Objetivos-<COLOR>)](#Aprendizados) • [![](https://img.shields.io/badge/🔗-O%20Projeto-<COLOR>)](#O-Projeto) •  
+ [![](https://img.shields.io/badge/🔗-Status-<COLOR>)](#Status-do-Projeto) • [![](https://img.shields.io/badge/🔗-Demonstração-<COLOR>)](#Demonstração) • [![](https://img.shields.io/badge/🔗-Pré--Requisitos-<COLOR>)](#Pré-requisitos) • 
 </div>
 
 # PicPro
