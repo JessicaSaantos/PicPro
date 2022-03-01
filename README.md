@@ -15,6 +15,8 @@
 
 [![](https://img.shields.io/badge/Sobre-<COLOR>)](#Descrição)
 
+[![](https://img.shields.io/badge/Tecnologias%20Utilizadas-<COLOR>)](#Tecnologias-Utilizadas)
+
 # PicPro
 
 ***
