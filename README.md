@@ -16,7 +16,7 @@
 # PicPro
 
 ***
-
+[![GitHub](https://img.shields.io/github/license/JessicaSaantos/PicPro)](https://github.com/JessicaSaantos/PicPro/blob/main/LICENSE)
  ## Descrição:
   **🔗Projeto PicPro:** Clone simples da Interface do aplicativo *PicPay*, a Carteira Digital feita para descomplicar a vida financeira de seus usuários, facilitando pagamentos, transferências e saques. Esse projeto contém o mesmo padrão do conteúdo principal do app que é a apresentação com informações do usuário, o menu inicial de navegação e o rodapé. Nele é possível fazer a navegação entre as principais seções da página, selecionando a forma de pagamento.    
 
