@@ -17,15 +17,18 @@
 ***
 
 ### Tecnologias Utilizadas:
+![GitHub language count](https://img.shields.io/github/languages/count/JessicaSaantos/PicPro)
+![GitHub top language](https://img.shields.io/github/languages/top/JessicaSaantos/PicPro)
+
 Marcação | Estilização | Programção
 ---|---|---
 Html | Css | JavaScript
 5 | 3 | ECMAScript 2018
 
  
-### Aprendizados:  📚
+### Aprendizados:
 
- <p> Através desse projeto foi possível exercitar o uso do conceito de Flexbox para organizar os elementos dentro de containers de forma dinâmica, também do atributo hover que permite mudanças de estilos quando o cursor do mouse passa em algum elemento da página HTML, no PicPro esse efeito acontece no menu de seleção de pagamento. </p> 
+ <p> 📚 Através desse projeto foi possível exercitar o uso do conceito de Flexbox para organizar os elementos dentro de containers de forma dinâmica, também do atributo hover que permite mudanças de estilos quando o cursor do mouse passa em algum elemento da página HTML, no PicPro esse efeito acontece no menu de seleção de pagamento. </p> 
  
  <p> Além disso, foi interessante usar a linguagem JavaScript para tornar a página dinâmica tornando possível a mudança de seção  ao selecionar uma forma de pagamento especifica. Usando DOM, para manipular elementos do documento HTML, funções para executar tarefas como identificar ação de click em elementos específicos e também loop para omitir as seções não selecionadas. </p>
 
@@ -61,6 +64,8 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
  - [ ] Abrir o chat do App
 
 ### Demonstração: 
+🎥📷
+
 ![Animação](https://user-images.githubusercontent.com/98659450/155865785-c00d109a-9dd9-4458-8e8b-2f5eeb71b352.gif)
 
 ### Pré-requisitos:
