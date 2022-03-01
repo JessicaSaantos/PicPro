@@ -4,7 +4,7 @@
 <div align="center">
 
  [![](https://img.shields.io/badge/🔗-Sobre-<COLOR>)](#Descrição) • [![](https://img.shields.io/badge/🔗-Tecnologias%20Utilizadas-<COLOR>)](#Tecnologias-Utilizadas) • [![](https://img.shields.io/badge/🔗-Objetivos-<COLOR>)](#Aprendizados) • [![](https://img.shields.io/badge/🔗-O%20Projeto-<COLOR>)](#O-Projeto) •  
- [![](https://img.shields.io/badge/🔗-Status-<COLOR>)](#Status-do-Projeto) • [![](https://img.shields.io/badge/🔗-Demonstração-<COLOR>)](#Demonstração) • [![](https://img.shields.io/badge/🔗-Pré--Requisitos-<COLOR>)](#Pré-requisitos) • 
+ [![](https://img.shields.io/badge/🔗-Status-<COLOR>)](#Status-do-Projeto) • [![](https://img.shields.io/badge/🔗-Demonstração-<COLOR>)](#Demonstração) • [![](https://img.shields.io/badge/🔗-Pré--Requisitos-<COLOR>)](#Pré-requisitos)
 </div>
 
 # PicPro
@@ -23,7 +23,7 @@ Html | Css | JavaScript
 5 | 3 | ECMAScript 2018
 
  
-### Aprendizados:
+### Aprendizados:  📚
 
  <p> Através desse projeto foi possível exercitar o uso do conceito de Flexbox para organizar os elementos dentro de containers de forma dinâmica, também do atributo hover que permite mudanças de estilos quando o cursor do mouse passa em algum elemento da página HTML, no PicPro esse efeito acontece no menu de seleção de pagamento. </p> 
  
