@@ -70,6 +70,7 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
 
 ### Pré-requisitos:
 
-Para ver o funcionamento é só clicar [aqui](). <br>
+Navegador web: Chrome/Edge
+**Para ver o funcionamento é só clicar [aqui](https://jessicasaantos.github.io/PicPro/).** <br>
 Para extrair o arquivo e trabalhar com o código é bom ter um editor como [VSCode](https://code.visualstudio.com/) por exemplo.
 
