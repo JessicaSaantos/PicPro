@@ -318,6 +318,7 @@
     }
     .rodape__menuItemPgr a p {
         margin-top: -25px;
+        font-size: 25px;
     }
     
 
@@ -429,6 +430,9 @@
         }
         .rodape__menuItem a p {
             margin-top: 4px;
+        }
+        .rodape__menuItemPgr a p {
+            margin-left: 8px;
         }
     }
 
