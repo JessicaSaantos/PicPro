@@ -419,12 +419,16 @@
         .rodape__menuItemPgr a img {
             max-width: 85px;
             transform: translateY(-40px);
+            margin-left: 8px;
         }
         .rodape__menuItem a img {
             max-width: 30px;
         }
         .rodape__menu .car {
             padding-top: 12px;
+        }
+        .rodape__menuItem a p {
+            margin-top: 4px;
         }
     }
 
