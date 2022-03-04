@@ -361,6 +361,10 @@
         .secaoDetalhesConta__sobreUsuario .secaoDetalhesConta__icon {
             margin: 0 10px;
         }
+        .rodape__menu {
+            margin: 0 auto;
+            padding-bottom: 25px;
+        }
     }
 
 
@@ -406,21 +410,25 @@
     }
 
     @media (max-width:520px) {
-        .rodape__menuItem {
+        .rodape__menu .sumir {
             display: none;
-        }
-        .rodape__menuItemPgr{
-           padding-left: 180px;
         }
         .secaoTransacao__container div.mostrar {
             padding: 0 20px;
         }
+        .rodape__menuItemPgr a img {
+            max-width: 85px;
+            transform: translateY(-40px);
+        }
+        .rodape__menuItem a img {
+            max-width: 30px;
+        }
+        .rodape__menu .car {
+            padding-top: 12px;
+        }
     }
 
     @media (max-width: 400px) {
-        .rodape__menuItemPgr{
-           padding-left: 135px;
-        }
         .secaoTransacao__qrCode button {
             padding: 15px 80px;
         }
