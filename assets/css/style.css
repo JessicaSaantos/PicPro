@@ -424,6 +424,9 @@
         .secaoTransacao__qrCode button {
             padding: 15px 80px;
         }
+        .rodape__menuItemPgr a img {
+            max-width: 90px;
+        }
     }
 
     
