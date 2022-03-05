@@ -30,7 +30,7 @@ Html | Css | JavaScript
 
  <p> 📚 Através desse projeto foi possível exercitar o uso do conceito de Flexbox para organizar os elementos dentro de containers de forma dinâmica, também do atributo hover que permite mudanças de estilos quando o cursor do mouse passa em algum elemento da página HTML, no PicPro esse efeito acontece no menu de seleção de pagamento. </p> 
  
- <p> Além disso, foi interessante usar a linguagem JavaScript para tornar a página dinâmica tornando possível a mudança de seção  ao selecionar uma forma de pagamento especifica. Usando DOM, para manipular elementos do documento HTML, funções para executar tarefas como identificar ação de click em elementos específicos e também loop para omitir as seções não selecionadas. </p>
+ <p> Além disso, foi interessante usar a linguagem JavaScript para tornar a página interativa, tornando possível a mudança de seção  ao selecionar uma forma de pagamento específica. Usando DOM, para manipular elementos do documento HTML, funções para executar tarefas como identificar ação de click em elementos específicos e também loop para omitir as seções não selecionadas. </p>
 
 <p>  Foram usados nesse programa estrutura de repetição (for), estrutura condicional simples (if), além de alguns comandos para acionar eventos, chamar funções e orgazinar a apresentação do resultado final para o usuário. As Funções foram usadas também para dividir as etapas de funcionalidades do programa, deixando assim o código mais organizado e limpo.
  </p>
@@ -60,8 +60,8 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
 **Possíveis funcionalidades:**
  - [x] Interface Principal
  - [x] Seleção de forma de pagamento
- - [ ] Responsividade
- - [ ] Omitit o valor de saldo
+ - [x] Responsividade
+ - [ ] Omitir o valor de saldo
  - [ ] Abrir o chat do App
 
 ### Demonstração: 
@@ -72,6 +72,6 @@ Objetivo principal do projeto está finalizado. Mas outras funcionalidades poder
 ### Pré-requisitos:
 
 Navegador web: Chrome/Edge <br>
-**Para ver o funcionamento é só clicar [aqui](https://jessicasaantos.github.io/PicPro/).** <br>
+**Para ver o funcionamento é só clicar [aqui](https://jessicasaantos.github.io/PicPro/)** <br>
 Para extrair o arquivo e trabalhar com o código é bom ter um editor como [VSCode](https://code.visualstudio.com/) por exemplo.
 
